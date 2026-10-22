@@ -1,0 +1,44 @@
+# Unity 자동 생성 폴더·파일
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/.vs/
+.vsconfig
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.unitypackage
+
+# 외부 에셋 (README의 "포함하지 않은 외부 에셋" 참고)
+/Assets/Assets/
+/Assets/Assets.meta
+/Assets/Fonts/Fonts/PixelFJVerdana12pt.ttf
+/Assets/Fonts/Fonts/PixelFJVerdana12pt.ttf.meta
+
+# 서버 실행 시 생기는 파일과 비밀 정보
+/Server/user_code.py
+__pycache__/
+.env
+
+# 외부 에셋·참고 이미지 (저장소에 올리지 않음)
+Assets/TopDown 2D RPG BE3/
+Assets/TopDown 2D RPG BE3.meta
+Assets/Image_JM/
+Assets/Image_JM.meta
+Assets/Scenes/TextMesh Pro/
+Assets/Scenes/TextMesh Pro.meta
+Assets/Scenes/Audio/*.mp3
+Assets/Scenes/Audio/*.mp3.meta
+Assets/Scenes/Audio/*.wav
+Assets/Scenes/Audio/*.wav.meta
