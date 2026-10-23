@@ -38,5 +38,3 @@
 - `Scenes/TextMesh Pro`: TextMesh Pro 기본 리소스와 Pretendard 폰트 SDF 파일(각 약 39MB). Unity에서 TMP Essentials를 가져오고 Pretendard 폰트로 SDF를 다시 만들면 됩니다.
 
 ---
-
-스크립트의 한글 주석은 GitHub에서 읽을 수 있도록 CP949에서 UTF-8로만 변환했고, 코드는 바꾸지 않았습니다. README·.gitignore 정리는 Claude(AI)의 도움을 받았습니다.
